@@ -45,22 +45,21 @@
 ## About The Project
 
 STG Note-Taker is a web-based app for creating and editing notes. The user will initially sign up for an account and subsequently log in to add, edit and delete notes.
-![Desktop Layout](supportfiles/STG-screenshot.png?raw=true)
+![Desktop Layout](addons/STG-screenshot.png?raw=true)
 * The user will need to sign up before creating notes:
-    ![Signup Form](supportfiles/Signup.png?raw=true)
+    ![Signup Form](addons/Signup.png?raw=true)
 * The user will log in to add, edit, or delete notes:
-    ![Login Form](supportfiles/Login.png?raw=true)
+    ![Login Form](addons/Login.png?raw=true)
 * Notes can be composed with fields for Title, Content, and Tags/Keywords (optional):
-    ![Add Note](supportfiles/addnote.png?raw=true)
+    ![Add Note](addons/addnote.png?raw=true)
 * Individual notes are displayed in an Accordion format, and can be expanded or collapsed as needed. Clicking on the edit or trash icon on individual notes will allow the user the edit or delete notes, respectively, after they are created:
-    ![Individual Note](supportfiles/note-example.png?raw=true)
+    ![Individual Note](addons/note-example.png?raw=true)
 * Trash can Icon - for deleting notes:
-    ![Delete](supportfiles/Delete-icon.png?raw=true)
+    ![Delete](addons/Delete-icon.png?raw=true)
 * Edit Icon:
-    ![Individual Note](supportfiles/Edit-icon.png?raw=true)
+    ![Individual Note](addons/Edit-icon.png?raw=true)
 * The edit icon will create a pop-up window that allows the user to edit any fields:
-    ![Edit Pop-Up](supportfiles/Edit-screenshot.png?raw=true)
-
+addons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -72,8 +71,6 @@ STG Note-Taker is a full-stack MERN app built with the following frameworks/libr
 * [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 * [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 * [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-* [![JWT](http://jwt.io/img/logo-asset.svg)](https://jwt.io/)
-* [![Bcrypt](http://jwt.io/img/logo-asset.svg)](https://jwt.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
