@@ -54,12 +54,13 @@ STG Note-Taker is a web-based app for creating and editing notes. The user will 
     ![Add Note](addons/addnote.png?raw=true)
 * Individual notes are displayed in an Accordion format, and can be expanded or collapsed as needed. Clicking on the edit or trash icon on individual notes will allow the user the edit or delete notes, respectively, after they are created:
     ![Individual Note](addons/note-example.png?raw=true)
-* Trash can Icon - for deleting notes:
+* Trashcan Icon - for deleting notes:
     ![Delete](addons/Delete-icon.png?raw=true)
 * Edit Icon:
     ![Individual Note](addons/Edit-icon.png?raw=true)
 * The edit icon will create a pop-up window that allows the user to edit any fields:
-addons
+    ![Edit Pop-Up](addons/Edit-screenshot.png?raw=true)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
