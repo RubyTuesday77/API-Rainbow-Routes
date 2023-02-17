@@ -40,7 +40,21 @@
 ## About The Project
 
 STG Note-Taker is a web-based app for creating and editing notes. The user will initially sign up for an account and subsequently log in to add, edit and delete notes.
-
+![Desktop Layout](addons/STG-screenshot.png?raw=true)
+* The user will need to sign up before creating notes:
+    ![Signup Form](addons/Signup.png?raw=true)
+* The user will log in to add, edit, or delete notes:
+    ![Login Form](addons/Login.png?raw=true)
+* Notes can be composed with fields for Title, Content, and Tags/Keywords (optional):
+    ![Add Note](addons/addnote.png?raw=true)
+* Individual notes are displayed in an Accordion format, and can be expanded or collapsed as needed. Clicking on the edit or trash icon on individual notes will allow the user the edit or delete notes, respectively, after they are created:
+    ![Individual Note](addons/note-example.png?raw=true)
+* Trash can Icon - for deleting notes:
+    ![Delete](addons/Delete-icon.png?raw=true)
+* Edit Icon:
+    ![Individual Note](addons/Edit-icon.png?raw=true)
+* The edit icon will create a pop-up window that allows the user to edit any fields:
+    ![Edit Pop-Up](addons/Edit-screenshot.png?raw=true)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,38 +162,32 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+* Email: tysonlannon@gmail.com
+* GitHub: https://github.com/RubyTuesday77
+* LinkedIn: 
+* Twitter: [@tysonlannon](https://twitter.com/tysonlannon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Credit for this project should be given to:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-STG Note-Taker is a web-based app for creating and editing notes. The user will initially sign up for an account and subsequently log in to add, edit and delete notes.
-
-STG Note-Taker is a full-stack MERN application
 
 ### Frontend:
 - Created frontend folder using React.JS, `npx create-react-app frontend`
