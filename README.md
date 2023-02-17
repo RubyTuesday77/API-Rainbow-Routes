@@ -4,14 +4,14 @@
 <br />
 <div align="center">
     <a href="https://github.com/RubyTuesday77/STGNoteTakingApp">
-        <img src="addons/pencil-square.png" alt="logo" width="80" height="80">
+        <img src="addons/stglogo.png" alt="logo" />
     </a>
     <h3 align="center">STG Note-Taker</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-    `<summary>Table of Contents</summary>
+    <summary>Table of Contents</summary>
     <ol>
         <li>
         <a href="#about-the-project">About the Project</a>
@@ -32,23 +32,19 @@
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
-    </ol>`
+    </ol>
 </details>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][addons/STG-screenshot]]
-
-
 STG Note-Taker is a web-based app for creating and editing notes. The user will initially sign up for an account and subsequently log in to add, edit and delete notes.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 
