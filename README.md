@@ -120,26 +120,28 @@ In order to set STG Note-Taker up on your local computer you will need to create
 
 
 ### Installation
-Once you have 
+Once you have gotten a MongoDB database set up (see Prerequisites above):
 1. Fork the repository https://github.com/RubyTuesday77/STGNoteTakingApp to your GitHub account.
 2. Clone the repository to your local machine
     ```sh
    git clone https://github.com/RubyTuesday77/STGNoteTakingApp.git
    ```
 3. `cd` into the `frontend` folder in a separate terminal:
-    * Run `npm install` to install dependencies
-    * Create an .env file in the root of the folder that includes the following environmental variable:
+    * Run `npm install` to install dependencies.
+    * Create an `.env` file in the root of the folder that includes the following environmental variable:
     ```sh
         REACT_APP_SERVER_URL=http://localhost:5000/
     ```
 4. `cd` into the `server` folder in a new, separate terminal:
-    * Run `npm install` to install dependencies
-    * Create an .env file with the following variables:
+    * Run `npm install` to install dependencies.
+    * Create an `.env` file in the root of the folder that includes the following environmental variables:
     ```sh
         # Make sure the port number matches the one used in the server .env
         PORT=5000
-        # You will get the <username>, <password>, <hostname>, and <database> when you create your database in the Prerequisites section above
+
+        # The <username>, <password>, <hostname>, and <database> will be for the MongoDB database you've created
         MONGO_URI=mongodb+srv://<username>:<password>@<hostname>/<database>
+
         # <token> can include any sequence of text or numbers you want to use as a keyword - no spaces
         JWT_SECRET=<token>
     ```
@@ -154,7 +156,7 @@ Once you have
 - [ ] Deploy app to Amazon Web Services.
 - [ ] Update Tags/Keywords to be clickable and return all notes with the specified term.
 - [ ] Update User password to require upper and lowercase alphanumeric and special characters. Right now it requires only 8 characters.
-- [ ] Add pagination to Notes page to accommodate a greater amount of notes.
+- [ ] Add pagination to the Notes to accommodate high volume.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
