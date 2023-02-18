@@ -23,8 +23,8 @@
         <li>
             <a href="#application-endpoints">Application Endpoints</a>
             <ul>
-                <li><a href="#server">Server API</a></li>
-                <li><a href="#reactapp">React App</a></li>
+                <li><a href="#application-endpoints">Server API</a></li>
+                <li><a href="#application-endpoints">React App</a></li>
             </ul>
         </li>
         <li>
@@ -42,7 +42,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the Project
 
 STG Note-Taker is a web-based app for creating and editing notes. The user will initially sign up for an account and subsequently log in to add, edit and delete notes.
 ![Desktop Layout](addons/STG-screenshot.png?raw=true)
@@ -151,7 +151,7 @@ Once you have gotten a MongoDB database set up (see Prerequisites above):
 
 
 <!-- ROADMAP / FUTURE UPDATES -->
-## Roadmap
+## Roadmap / Future Updates
 
 - [ ] Deploy app to Amazon Web Services.
 - [ ] Update Tags/Keywords to be clickable and return all notes with the specified term.
