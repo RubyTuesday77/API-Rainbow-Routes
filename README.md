@@ -23,8 +23,8 @@
         <li>
             <a href="#application-endpoints">Application Endpoints</a>
             <ul>
-                <li><a href="#prerequisites">Server API</a></li>
-                <li><a href="#installation">React App</a></li>
+                <li><a href="#server">Server API</a></li>
+                <li><a href="#reactapp">React App</a></li>
             </ul>
         </li>
         <li>
